@@ -5,4 +5,5 @@ To create a test of intelligence one needs to define what intelligence is. To an
 
 Logic is the process of stating facts and making deductions from the facts. Deductions are the first, second to n:th order of facts evident from the basic facts or principles.
 
-Something that is intelligent must be able to hold facts in memory and deduce conclusions. It is assumed that memories are stored in the brain.
+Something that is intelligent must be able to hold facts in memory and deduce conclusions. It is assumed that memories are stored in the brain. Higher intelligence has higher capacity for holding facts, i.e. more memory. Higher intelligence has higher capabilities to deduce auxiliary facts from the state of facts.
+
