@@ -10,4 +10,4 @@ Something that is intelligent must be able to hold facts in memory and deduce co
 Hypothesis
 
 * Intelligence increases exponentionally in relation to increased neuron count.
-* When the chain of deduction is too complex for intelligence, a heurustic must be used, i.e. argumentation error.
+* When the chain of deduction is too complex for intelligence, a heuristic must be used, i.e. argumentation error.
